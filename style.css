@@ -12,8 +12,8 @@ html {
 }
 
 section {
-    min-height: 600px;
-    background: url('picture.jpg') center/cover no-repeat;
+    min-height: 575px;
+    background: url('picture.jpg')center/cover no-repeat;
 }
 
 .myProjects {
