@@ -22,3 +22,6 @@ section {
 .myProjects a{
     color: rgb(86, 130, 202);
 }
+.container{
+    background: url('picture.jpg')center/cover no-repeat;
+}
