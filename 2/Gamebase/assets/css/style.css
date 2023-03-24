@@ -52,8 +52,8 @@ ul li {
 }
 
 .header {
-    background-color: gray;
-    height: 177px;
+    background-color: rgb(32, 33, 41);
+    height: 230px;
     font-size: 0.8em;
     margin-left: 0px;
     margin-right: 0px;
@@ -91,6 +91,7 @@ ul li {
 .menubar {
     width: 900px; 
     height: 46px;
+    color: #a71e1e;
 }
 
 ul.menu {
